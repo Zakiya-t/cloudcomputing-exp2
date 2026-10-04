@@ -723,7 +723,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![CPU Performance](results/figures/01_cpu_performance.png)
 
-[Open CPU Performance Graph](results/figures/01_cpu_performance.png)
 
 ---
 
@@ -731,7 +730,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![Memory Performance](results/figures/02_memory_performance.png)
 
-[Open Memory Performance Graph](results/figures/02_memory_performance.png)
 
 ---
 
@@ -739,7 +737,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![Disk Bandwidth](results/figures/03_disk_bandwidth.png)
 
-[Open Disk Bandwidth Graph](results/figures/03_disk_bandwidth.png)
 
 ---
 
@@ -747,7 +744,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![Disk IOPS](results/figures/04_disk_iops.png)
 
-[Open Disk IOPS Graph](results/figures/04_disk_iops.png)
 
 ---
 
@@ -755,7 +751,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![Network Throughput](results/figures/05_network_throughput.png)
 
-[Open Network Throughput Graph](results/figures/05_network_throughput.png)
 
 ---
 
@@ -763,7 +758,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![Application Throughput](results/figures/06_application_throughput.png)
 
-[Open Application Throughput Graph](results/figures/06_application_throughput.png)
 
 ---
 
@@ -771,7 +765,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![Application Latency](results/figures/07_application_latency.png)
 
-[Open Application Latency Graph](results/figures/07_application_latency.png)
 
 ---
 
@@ -779,7 +772,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![Startup Time](results/figures/08_startup_time.png)
 
-[Open Startup Time Graph](results/figures/08_startup_time.png)
 
 ---
 
@@ -787,7 +779,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![CPU Scalability](results/figures/09_cpu_scalability.png)
 
-[Open CPU Scalability Graph](results/figures/09_cpu_scalability.png)
 
 ---
 
@@ -795,7 +786,6 @@ All generated performance graphs are stored in `results/figures/`.
 
 ![API Scalability](results/figures/10_api_scalability.png)
 
-[Open API Scalability Graph](results/figures/10_api_scalability.png)
 
 ---
 
