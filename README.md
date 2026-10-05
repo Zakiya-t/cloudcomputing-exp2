@@ -668,26 +668,6 @@ The API was evaluated at increasing workload levels.
 
 ---
 
-# 9. Performance Difference
-
-For throughput metrics:
-
-```text
-Difference (%) =
-((Docker - VM) / VM) × 100
-```
-
-### Interpretation
-
-* **Positive percentage** → Docker measured a higher value.
-* **Negative percentage** → Docker measured a lower value.
-
-For latency and startup time, the numerical direction should be interpreted according to whether the measured time increased or decreased.
-
-The comparison values are calculated from the processed experimental measurements.
-
----
-
 # 10. Statistical Analysis
 
 Repeated measurements were collected for the CPU, memory, and startup experiments.
