@@ -769,15 +769,15 @@ All generated performance graphs are stored in `results/figures/`.
 
 ---
 
-# 13. Conclusion
+## Conclusion
 
 This experiment provides a controlled comparison of a Virtual Machine and a Docker Container across multiple performance dimensions.
 
-The results demonstrate that there is **no single environment that is universally better for every workload**.
+The results demonstrate that **there is no single environment that is universally better for every workload in this experiment**.
 
-CPU performance is closely matched, while noticeable differences appear in memory throughput, storage behavior, network throughput, application workloads, startup time, and API scalability.
+CPU performance is closely matched, while noticeable differences appear in memory usage, storage performance, network throughput, application workloads, startup time, and API scalability. Docker shows advantages in memory efficiency, disk performance, and API scalability, whereas the VM performs better in startup time, network throughput, and the compute-intensive application workload.
 
-The VM performs better in some measurements, while Docker performs better in others. The final conclusion therefore depends on the specific workload and performance requirement being considered.
+The final choice therefore depends on the **specific workload and performance requirement** being considered.
 
 The experiment demonstrates the importance of:
 
@@ -792,6 +792,7 @@ Statistical Analysis
         ↓
 Performance Comparison
 ```
+
 
 ---
 
